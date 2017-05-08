@@ -1,0 +1,8 @@
+All the input dataset should be in the form of ¡®*.txt¡¯, and it's your responsibility to provide proper training set, which could make a big difference on your classfication on test set.
+The data in the dataset should always be like "class1 feature1 feature2 ......featurek
+                                              "class2 feature1 feature2 ......featurek
+                                               ...
+                                               classx feature1 feature2 ......featurek"
+The labels of classes must be successive and the users will provide the smallest biggest value of class labels, and the number of features. 
+We provided four basic classifier, which users could choose from the UI. And we also provided adaboost for "Batch Relaxation with Margin".
+all the alforithm provided give the users choices for parameters, and default values.

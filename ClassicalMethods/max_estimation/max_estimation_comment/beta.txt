@@ -1,0 +1,1 @@
+Parameter beta here is set for handling the problem that the covanriance matrix is singular which can't calculate the inverse matrix
